@@ -1,0 +1,17 @@
+{
+  "titulo": "DevMobile_completo",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "artifacts/mobile/server/templates/landing-page.html",
+      "nome": "APP_NAME_PLACEHOLDER",
+      "desc": "",
+      "on": true,
+      "icone": "artifacts/mobile/server/templates/icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
